@@ -17,6 +17,7 @@ public class Lab1 {
     public static void main(String[] args) {
         System.out.println("Hi Aaron");
         System.out.println("Hi everyone else");
+        System.out.println("Testing the push");
     }
     
 }
